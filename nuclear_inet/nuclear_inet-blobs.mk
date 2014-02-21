@@ -30,4 +30,4 @@ PRODUCT_COPY_FILES += \
     vendor/allwinner/nuclear_inet/proprietary/lib/egl/libEGL_mali.so:system/lib/egl/libEGL_mali.so \
     vendor/allwinner/nuclear_inet/proprietary/lib/libMali.so:system/lib/libMali.so \
     vendor/allwinner/nuclear_inet/proprietary/lib/libUMP.so:system/lib/libUMP.so \
-    vendor/allwinner/nuclear_inet/proprietary/lib/liballwinner-ril.so:system/lib/liballwinner-ril.so
+#    vendor/allwinner/nuclear_inet/proprietary/lib/liballwinner-ril.so:system/lib/liballwinner-ril.so
