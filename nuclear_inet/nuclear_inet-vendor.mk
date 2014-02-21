@@ -30,4 +30,4 @@ PRODUCT_COPY_FILES := \
 # Pick up overlay for features that depend on non-open-source files
 DEVICE_PACKAGE_OVERLAYS += vendor/allwinner/nuclear_inet/overlay
 
-$(call inherit-product, vendor/allwinner/nuclear_inet/nuclear_inet-vendor-blobs.mk)
+$(call inherit-product, vendor/allwinner/nuclear_inet/nuclear_inet-blobs.mk)
